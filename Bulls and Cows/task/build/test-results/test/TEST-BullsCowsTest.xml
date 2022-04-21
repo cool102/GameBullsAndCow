@@ -1,0 +1,1187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BullsCowsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-04-21T12:42:12" hostname="DESKTOP-HS4DRCO" time="1.022">
+  <properties/>
+  <testcase name="start" classname="BullsCowsTest" time="1.022"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+Please, enter the secret code's length:
+>> 1
+Input the number of possible symbols in the code:
+>> 10
+The secret is prepared: * (0-9, ).
+0
+Okay, let's start a game!
+Turn 1:
+>> 0
+Grade: 1 bulls.
+Congratulations! You guessed the secret code.
+?[1;31m
+Start test 2?[0m
+Please, enter the secret code's length:
+>> 4
+Input the number of possible symbols in the code:
+>> 10
+The secret is prepared: **** (0-9, ).
+1687
+Okay, let's start a game!
+Turn 1:
+>> 0000
+Grade: None.
+Turn 2:
+>> 1111
+Grade: 1 bulls.
+Turn 3:
+>> 2222
+Grade: None.
+Turn 4:
+>> 3333
+Grade: None.
+Turn 5:
+>> 4444
+Grade: None.
+Turn 6:
+>> 5555
+Grade: None.
+Turn 7:
+>> 6666
+Grade: 1 bulls.
+Turn 8:
+>> 7777
+Grade: 1 bulls.
+Turn 9:
+>> 8888
+Grade: 1 bulls.
+Turn 10:
+>> 1678
+Grade: 2 bulls and 2 cows.
+Turn 11:
+>> 6178
+Grade: 4 cow.
+Turn 12:
+>> 7168
+Grade: 4 cow.
+Turn 13:
+>> 1768
+Grade: 1 bull and 3 cows.
+Turn 14:
+>> 6718
+Grade: 4 cow.
+Turn 15:
+>> 7618
+Grade: 1 bull and 3 cows.
+Turn 16:
+>> 8617
+Grade: 2 bulls and 2 cows.
+Turn 17:
+>> 6817
+Grade: 1 bull and 3 cows.
+Turn 18:
+>> 1867
+Grade: 2 bulls and 2 cows.
+Turn 19:
+>> 8167
+Grade: 1 bull and 3 cows.
+Turn 20:
+>> 6187
+Grade: 2 bulls and 2 cows.
+Turn 21:
+>> 1687
+Grade: 4 bulls.
+Congratulations! You guessed the secret code.
+?[1;31m
+Start test 3?[0m
+Please, enter the secret code's length:
+>> 6
+Input the number of possible symbols in the code:
+>> 10
+The secret is prepared: ****** (0-9, ).
+743128
+Okay, let's start a game!
+Turn 1:
+>> 000000
+Grade: None.
+Turn 2:
+>> 111111
+Grade: 1 bulls.
+Turn 3:
+>> 222222
+Grade: 1 bulls.
+Turn 4:
+>> 333333
+Grade: 1 bulls.
+Turn 5:
+>> 444444
+Grade: 1 bulls.
+Turn 6:
+>> 555555
+Grade: None.
+Turn 7:
+>> 666666
+Grade: None.
+Turn 8:
+>> 777777
+Grade: 1 bulls.
+Turn 9:
+>> 888888
+Grade: 1 bulls.
+Turn 10:
+>> 123478
+Grade: 2 bulls and 4 cows.
+Turn 11:
+>> 213478
+Grade: 2 bulls and 4 cows.
+Turn 12:
+>> 312478
+Grade: 1 bull and 5 cows.
+Turn 13:
+>> 132478
+Grade: 1 bull and 5 cows.
+Turn 14:
+>> 231478
+Grade: 1 bull and 5 cows.
+Turn 15:
+>> 321478
+Grade: 1 bull and 5 cows.
+Turn 16:
+>> 421378
+Grade: 1 bull and 5 cows.
+Turn 17:
+>> 241378
+Grade: 2 bulls and 4 cows.
+Turn 18:
+>> 142378
+Grade: 2 bulls and 4 cows.
+Turn 19:
+>> 412378
+Grade: 1 bull and 5 cows.
+Turn 20:
+>> 214378
+Grade: 1 bull and 5 cows.
+Turn 21:
+>> 124378
+Grade: 1 bull and 5 cows.
+Turn 22:
+>> 134278
+Grade: 1 bull and 5 cows.
+Turn 23:
+>> 314278
+Grade: 1 bull and 5 cows.
+Turn 24:
+>> 413278
+Grade: 2 bulls and 4 cows.
+Turn 25:
+>> 143278
+Grade: 3 bulls and 3 cows.
+Turn 26:
+>> 341278
+Grade: 2 bulls and 4 cows.
+Turn 27:
+>> 431278
+Grade: 1 bull and 5 cows.
+Turn 28:
+>> 432178
+Grade: 2 bulls and 4 cows.
+Turn 29:
+>> 342178
+Grade: 3 bulls and 3 cows.
+Turn 30:
+>> 243178
+Grade: 4 bulls and 2 cows.
+Turn 31:
+>> 423178
+Grade: 3 bulls and 3 cows.
+Turn 32:
+>> 324178
+Grade: 2 bulls and 4 cows.
+Turn 33:
+>> 234178
+Grade: 2 bulls and 4 cows.
+Turn 34:
+>> 734128
+Grade: 4 bulls and 2 cows.
+Turn 35:
+>> 374128
+Grade: 3 bulls and 3 cows.
+Turn 36:
+>> 473128
+Grade: 4 bulls and 2 cows.
+Turn 37:
+>> 743128
+Grade: 6 bulls.
+Congratulations! You guessed the secret code.
+?[1;31m
+Start test 4?[0m
+Please, enter the secret code's length:
+>> 11
+Input the number of possible symbols in the code:
+>> 10
+?[1;31m
+Start test 5?[0m
+Please, enter the secret code's length:
+>> 4
+Input the number of possible symbols in the code:
+>> 16
+The secret is prepared: **** (0-9, a-f).
+2fcd
+Okay, let's start a game!
+Turn 1:
+>> 0000
+Grade: None.
+Turn 2:
+>> 1111
+Grade: None.
+Turn 3:
+>> 2222
+Grade: 1 bulls.
+Turn 4:
+>> 3333
+Grade: None.
+Turn 5:
+>> 4444
+Grade: None.
+Turn 6:
+>> 5555
+Grade: None.
+Turn 7:
+>> 6666
+Grade: None.
+Turn 8:
+>> 7777
+Grade: None.
+Turn 9:
+>> 8888
+Grade: None.
+Turn 10:
+>> 9999
+Grade: None.
+Turn 11:
+>> aaaa
+Grade: None.
+Turn 12:
+>> bbbb
+Grade: None.
+Turn 13:
+>> cccc
+Grade: 1 bulls.
+Turn 14:
+>> dddd
+Grade: 1 bulls.
+Turn 15:
+>> eeee
+Grade: None.
+Turn 16:
+>> ffff
+Grade: 1 bulls.
+Turn 17:
+>> 2cdf
+Grade: 1 bull and 3 cows.
+Turn 18:
+>> c2df
+Grade: 4 cow.
+Turn 19:
+>> d2cf
+Grade: 1 bull and 3 cows.
+Turn 20:
+>> 2dcf
+Grade: 2 bulls and 2 cows.
+Turn 21:
+>> cd2f
+Grade: 4 cow.
+Turn 22:
+>> dc2f
+Grade: 4 cow.
+Turn 23:
+>> fc2d
+Grade: 1 bull and 3 cows.
+Turn 24:
+>> cf2d
+Grade: 2 bulls and 2 cows.
+Turn 25:
+>> 2fcd
+Grade: 4 bulls.
+Congratulations! You guessed the secret code.
+?[1;31m
+Start test 6?[0m
+Please, enter the secret code's length:
+>> 6
+Input the number of possible symbols in the code:
+>> 36
+The secret is prepared: ****** (0-9, a-z).
+ywhuzi
+Okay, let's start a game!
+Turn 1:
+>> 000000
+Grade: None.
+Turn 2:
+>> 111111
+Grade: None.
+Turn 3:
+>> 222222
+Grade: None.
+Turn 4:
+>> 333333
+Grade: None.
+Turn 5:
+>> 444444
+Grade: None.
+Turn 6:
+>> 555555
+Grade: None.
+Turn 7:
+>> 666666
+Grade: None.
+Turn 8:
+>> 777777
+Grade: None.
+Turn 9:
+>> 888888
+Grade: None.
+Turn 10:
+>> 999999
+Grade: None.
+Turn 11:
+>> aaaaaa
+Grade: None.
+Turn 12:
+>> bbbbbb
+Grade: None.
+Turn 13:
+>> cccccc
+Grade: None.
+Turn 14:
+>> dddddd
+Grade: None.
+Turn 15:
+>> eeeeee
+Grade: None.
+Turn 16:
+>> ffffff
+Grade: None.
+Turn 17:
+>> gggggg
+Grade: None.
+Turn 18:
+>> hhhhhh
+Grade: 1 bulls.
+Turn 19:
+>> iiiiii
+Grade: 1 bulls.
+Turn 20:
+>> jjjjjj
+Grade: None.
+Turn 21:
+>> kkkkkk
+Grade: None.
+Turn 22:
+>> llllll
+Grade: None.
+Turn 23:
+>> mmmmmm
+Grade: None.
+Turn 24:
+>> nnnnnn
+Grade: None.
+Turn 25:
+>> oooooo
+Grade: None.
+Turn 26:
+>> pppppp
+Grade: None.
+Turn 27:
+>> qqqqqq
+Grade: None.
+Turn 28:
+>> rrrrrr
+Grade: None.
+Turn 29:
+>> ssssss
+Grade: None.
+Turn 30:
+>> tttttt
+Grade: None.
+Turn 31:
+>> uuuuuu
+Grade: 1 bulls.
+Turn 32:
+>> vvvvvv
+Grade: None.
+Turn 33:
+>> wwwwww
+Grade: 1 bulls.
+Turn 34:
+>> xxxxxx
+Grade: None.
+Turn 35:
+>> yyyyyy
+Grade: 1 bulls.
+Turn 36:
+>> zzzzzz
+Grade: 1 bulls.
+Turn 37:
+>> hiuwyz
+Grade: 6 cow.
+Turn 38:
+>> ihuwyz
+Grade: 6 cow.
+Turn 39:
+>> uhiwyz
+Grade: 6 cow.
+Turn 40:
+>> huiwyz
+Grade: 6 cow.
+Turn 41:
+>> iuhwyz
+Grade: 1 bull and 5 cows.
+Turn 42:
+>> uihwyz
+Grade: 1 bull and 5 cows.
+Turn 43:
+>> wihuyz
+Grade: 2 bulls and 4 cows.
+Turn 44:
+>> iwhuyz
+Grade: 3 bulls and 3 cows.
+Turn 45:
+>> hwiuyz
+Grade: 2 bulls and 4 cows.
+Turn 46:
+>> whiuyz
+Grade: 1 bull and 5 cows.
+Turn 47:
+>> ihwuyz
+Grade: 1 bull and 5 cows.
+Turn 48:
+>> hiwuyz
+Grade: 1 bull and 5 cows.
+Turn 49:
+>> huwiyz
+Grade: 6 cow.
+Turn 50:
+>> uhwiyz
+Grade: 6 cow.
+Turn 51:
+>> whuiyz
+Grade: 6 cow.
+Turn 52:
+>> hwuiyz
+Grade: 1 bull and 5 cows.
+Turn 53:
+>> uwhiyz
+Grade: 2 bulls and 4 cows.
+Turn 54:
+>> wuhiyz
+Grade: 1 bull and 5 cows.
+Turn 55:
+>> wuihyz
+Grade: 6 cow.
+Turn 56:
+>> uwihyz
+Grade: 1 bull and 5 cows.
+Turn 57:
+>> iwuhyz
+Grade: 1 bull and 5 cows.
+Turn 58:
+>> wiuhyz
+Grade: 6 cow.
+Turn 59:
+>> uiwhyz
+Grade: 6 cow.
+Turn 60:
+>> iuwhyz
+Grade: 6 cow.
+Turn 61:
+>> yuwhiz
+Grade: 1 bull and 5 cows.
+Turn 62:
+>> uywhiz
+Grade: 6 cow.
+Turn 63:
+>> wyuhiz
+Grade: 6 cow.
+Turn 64:
+>> ywuhiz
+Grade: 2 bulls and 4 cows.
+Turn 65:
+>> uwyhiz
+Grade: 1 bull and 5 cows.
+Turn 66:
+>> wuyhiz
+Grade: 6 cow.
+Turn 67:
+>> huywiz
+Grade: 6 cow.
+Turn 68:
+>> uhywiz
+Grade: 6 cow.
+Turn 69:
+>> yhuwiz
+Grade: 1 bull and 5 cows.
+Turn 70:
+>> hyuwiz
+Grade: 6 cow.
+Turn 71:
+>> uyhwiz
+Grade: 1 bull and 5 cows.
+Turn 72:
+>> yuhwiz
+Grade: 2 bulls and 4 cows.
+Turn 73:
+>> ywhuiz
+Grade: 4 bulls and 2 cows.
+Turn 74:
+>> wyhuiz
+Grade: 2 bulls and 4 cows.
+Turn 75:
+>> hywuiz
+Grade: 1 bull and 5 cows.
+Turn 76:
+>> yhwuiz
+Grade: 2 bulls and 4 cows.
+Turn 77:
+>> whyuiz
+Grade: 1 bull and 5 cows.
+Turn 78:
+>> hwyuiz
+Grade: 2 bulls and 4 cows.
+Turn 79:
+>> hwuyiz
+Grade: 1 bull and 5 cows.
+Turn 80:
+>> whuyiz
+Grade: 6 cow.
+Turn 81:
+>> uhwyiz
+Grade: 6 cow.
+Turn 82:
+>> huwyiz
+Grade: 6 cow.
+Turn 83:
+>> wuhyiz
+Grade: 1 bull and 5 cows.
+Turn 84:
+>> uwhyiz
+Grade: 2 bulls and 4 cows.
+Turn 85:
+>> iwhyuz
+Grade: 2 bulls and 4 cows.
+Turn 86:
+>> wihyuz
+Grade: 1 bull and 5 cows.
+Turn 87:
+>> hiwyuz
+Grade: 6 cow.
+Turn 88:
+>> ihwyuz
+Grade: 6 cow.
+Turn 89:
+>> whiyuz
+Grade: 6 cow.
+Turn 90:
+>> hwiyuz
+Grade: 1 bull and 5 cows.
+Turn 91:
+>> ywihuz
+Grade: 2 bulls and 4 cows.
+Turn 92:
+>> wyihuz
+Grade: 6 cow.
+Turn 93:
+>> iywhuz
+Grade: 6 cow.
+Turn 94:
+>> yiwhuz
+Grade: 1 bull and 5 cows.
+Turn 95:
+>> wiyhuz
+Grade: 6 cow.
+Turn 96:
+>> iwyhuz
+Grade: 1 bull and 5 cows.
+Turn 97:
+>> ihywuz
+Grade: 6 cow.
+Turn 98:
+>> hiywuz
+Grade: 6 cow.
+Turn 99:
+>> yihwuz
+Grade: 2 bulls and 4 cows.
+Turn 100:
+>> iyhwuz
+Grade: 1 bull and 5 cows.
+Turn 101:
+>> hyiwuz
+Grade: 6 cow.
+Turn 102:
+>> yhiwuz
+Grade: 1 bull and 5 cows.
+Turn 103:
+>> yhwiuz
+Grade: 1 bull and 5 cows.
+Turn 104:
+>> hywiuz
+Grade: 6 cow.
+Turn 105:
+>> wyhiuz
+Grade: 1 bull and 5 cows.
+Turn 106:
+>> ywhiuz
+Grade: 3 bulls and 3 cows.
+Turn 107:
+>> hwyiuz
+Grade: 1 bull and 5 cows.
+Turn 108:
+>> whyiuz
+Grade: 6 cow.
+Turn 109:
+>> uhyiwz
+Grade: 6 cow.
+Turn 110:
+>> huyiwz
+Grade: 6 cow.
+Turn 111:
+>> yuhiwz
+Grade: 2 bulls and 4 cows.
+Turn 112:
+>> uyhiwz
+Grade: 1 bull and 5 cows.
+Turn 113:
+>> hyuiwz
+Grade: 6 cow.
+Turn 114:
+>> yhuiwz
+Grade: 1 bull and 5 cows.
+Turn 115:
+>> ihuywz
+Grade: 6 cow.
+Turn 116:
+>> hiuywz
+Grade: 6 cow.
+Turn 117:
+>> uihywz
+Grade: 1 bull and 5 cows.
+Turn 118:
+>> iuhywz
+Grade: 1 bull and 5 cows.
+Turn 119:
+>> huiywz
+Grade: 6 cow.
+Turn 120:
+>> uhiywz
+Grade: 6 cow.
+Turn 121:
+>> uyihwz
+Grade: 6 cow.
+Turn 122:
+>> yuihwz
+Grade: 1 bull and 5 cows.
+Turn 123:
+>> iuyhwz
+Grade: 6 cow.
+Turn 124:
+>> uiyhwz
+Grade: 6 cow.
+Turn 125:
+>> yiuhwz
+Grade: 1 bull and 5 cows.
+Turn 126:
+>> iyuhwz
+Grade: 6 cow.
+Turn 127:
+>> iyhuwz
+Grade: 2 bulls and 4 cows.
+Turn 128:
+>> yihuwz
+Grade: 3 bulls and 3 cows.
+Turn 129:
+>> hiyuwz
+Grade: 1 bull and 5 cows.
+Turn 130:
+>> ihyuwz
+Grade: 1 bull and 5 cows.
+Turn 131:
+>> yhiuwz
+Grade: 2 bulls and 4 cows.
+Turn 132:
+>> hyiuwz
+Grade: 1 bull and 5 cows.
+Turn 133:
+>> wyiuhz
+Grade: 1 bull and 5 cows.
+Turn 134:
+>> ywiuhz
+Grade: 3 bulls and 3 cows.
+Turn 135:
+>> iwyuhz
+Grade: 2 bulls and 4 cows.
+Turn 136:
+>> wiyuhz
+Grade: 1 bull and 5 cows.
+Turn 137:
+>> yiwuhz
+Grade: 2 bulls and 4 cows.
+Turn 138:
+>> iywuhz
+Grade: 1 bull and 5 cows.
+Turn 139:
+>> uywihz
+Grade: 6 cow.
+Turn 140:
+>> yuwihz
+Grade: 1 bull and 5 cows.
+Turn 141:
+>> wuyihz
+Grade: 6 cow.
+Turn 142:
+>> uwyihz
+Grade: 1 bull and 5 cows.
+Turn 143:
+>> ywuihz
+Grade: 2 bulls and 4 cows.
+Turn 144:
+>> wyuihz
+Grade: 6 cow.
+Turn 145:
+>> wiuyhz
+Grade: 6 cow.
+Turn 146:
+>> iwuyhz
+Grade: 1 bull and 5 cows.
+Turn 147:
+>> uwiyhz
+Grade: 1 bull and 5 cows.
+Turn 148:
+>> wuiyhz
+Grade: 6 cow.
+Turn 149:
+>> iuwyhz
+Grade: 6 cow.
+Turn 150:
+>> uiwyhz
+Grade: 6 cow.
+Turn 151:
+>> uiywhz
+Grade: 6 cow.
+Turn 152:
+>> iuywhz
+Grade: 6 cow.
+Turn 153:
+>> yuiwhz
+Grade: 1 bull and 5 cows.
+Turn 154:
+>> uyiwhz
+Grade: 6 cow.
+Turn 155:
+>> iyuwhz
+Grade: 6 cow.
+Turn 156:
+>> yiuwhz
+Grade: 1 bull and 5 cows.
+Turn 157:
+>> ziuwhy
+Grade: 6 cow.
+Turn 158:
+>> izuwhy
+Grade: 6 cow.
+Turn 159:
+>> uziwhy
+Grade: 6 cow.
+Turn 160:
+>> zuiwhy
+Grade: 6 cow.
+Turn 161:
+>> iuzwhy
+Grade: 6 cow.
+Turn 162:
+>> uizwhy
+Grade: 6 cow.
+Turn 163:
+>> wizuhy
+Grade: 1 bull and 5 cows.
+Turn 164:
+>> iwzuhy
+Grade: 2 bulls and 4 cows.
+Turn 165:
+>> zwiuhy
+Grade: 2 bulls and 4 cows.
+Turn 166:
+>> wziuhy
+Grade: 1 bull and 5 cows.
+Turn 167:
+>> izwuhy
+Grade: 1 bull and 5 cows.
+Turn 168:
+>> ziwuhy
+Grade: 1 bull and 5 cows.
+Turn 169:
+>> zuwihy
+Grade: 6 cow.
+Turn 170:
+>> uzwihy
+Grade: 6 cow.
+Turn 171:
+>> wzuihy
+Grade: 6 cow.
+Turn 172:
+>> zwuihy
+Grade: 1 bull and 5 cows.
+Turn 173:
+>> uwzihy
+Grade: 1 bull and 5 cows.
+Turn 174:
+>> wuzihy
+Grade: 6 cow.
+Turn 175:
+>> wuizhy
+Grade: 6 cow.
+Turn 176:
+>> uwizhy
+Grade: 1 bull and 5 cows.
+Turn 177:
+>> iwuzhy
+Grade: 1 bull and 5 cows.
+Turn 178:
+>> wiuzhy
+Grade: 6 cow.
+Turn 179:
+>> uiwzhy
+Grade: 6 cow.
+Turn 180:
+>> iuwzhy
+Grade: 6 cow.
+Turn 181:
+>> huwziy
+Grade: 6 cow.
+Turn 182:
+>> uhwziy
+Grade: 6 cow.
+Turn 183:
+>> whuziy
+Grade: 6 cow.
+Turn 184:
+>> hwuziy
+Grade: 1 bull and 5 cows.
+Turn 185:
+>> uwhziy
+Grade: 2 bulls and 4 cows.
+Turn 186:
+>> wuhziy
+Grade: 1 bull and 5 cows.
+Turn 187:
+>> zuhwiy
+Grade: 1 bull and 5 cows.
+Turn 188:
+>> uzhwiy
+Grade: 1 bull and 5 cows.
+Turn 189:
+>> hzuwiy
+Grade: 6 cow.
+Turn 190:
+>> zhuwiy
+Grade: 6 cow.
+Turn 191:
+>> uhzwiy
+Grade: 6 cow.
+Turn 192:
+>> huzwiy
+Grade: 6 cow.
+Turn 193:
+>> hwzuiy
+Grade: 2 bulls and 4 cows.
+Turn 194:
+>> whzuiy
+Grade: 1 bull and 5 cows.
+Turn 195:
+>> zhwuiy
+Grade: 1 bull and 5 cows.
+Turn 196:
+>> hzwuiy
+Grade: 1 bull and 5 cows.
+Turn 197:
+>> wzhuiy
+Grade: 2 bulls and 4 cows.
+Turn 198:
+>> zwhuiy
+Grade: 3 bulls and 3 cows.
+Turn 199:
+>> zwuhiy
+Grade: 1 bull and 5 cows.
+Turn 200:
+>> wzuhiy
+Grade: 6 cow.
+Turn 201:
+>> uzwhiy
+Grade: 6 cow.
+Turn 202:
+>> zuwhiy
+Grade: 6 cow.
+Turn 203:
+>> wuzhiy
+Grade: 6 cow.
+Turn 204:
+>> uwzhiy
+Grade: 1 bull and 5 cows.
+Turn 205:
+>> iwzhuy
+Grade: 1 bull and 5 cows.
+Turn 206:
+>> wizhuy
+Grade: 6 cow.
+Turn 207:
+>> ziwhuy
+Grade: 6 cow.
+Turn 208:
+>> izwhuy
+Grade: 6 cow.
+Turn 209:
+>> wzihuy
+Grade: 6 cow.
+Turn 210:
+>> zwihuy
+Grade: 1 bull and 5 cows.
+Turn 211:
+>> hwizuy
+Grade: 1 bull and 5 cows.
+Turn 212:
+>> whizuy
+Grade: 6 cow.
+Turn 213:
+>> ihwzuy
+Grade: 6 cow.
+Turn 214:
+>> hiwzuy
+Grade: 6 cow.
+Turn 215:
+>> wihzuy
+Grade: 1 bull and 5 cows.
+Turn 216:
+>> iwhzuy
+Grade: 2 bulls and 4 cows.
+Turn 217:
+>> izhwuy
+Grade: 1 bull and 5 cows.
+Turn 218:
+>> zihwuy
+Grade: 1 bull and 5 cows.
+Turn 219:
+>> hizwuy
+Grade: 6 cow.
+Turn 220:
+>> ihzwuy
+Grade: 6 cow.
+Turn 221:
+>> zhiwuy
+Grade: 6 cow.
+Turn 222:
+>> hziwuy
+Grade: 6 cow.
+Turn 223:
+>> hzwiuy
+Grade: 6 cow.
+Turn 224:
+>> zhwiuy
+Grade: 6 cow.
+Turn 225:
+>> whziuy
+Grade: 6 cow.
+Turn 226:
+>> hwziuy
+Grade: 1 bull and 5 cows.
+Turn 227:
+>> zwhiuy
+Grade: 2 bulls and 4 cows.
+Turn 228:
+>> wzhiuy
+Grade: 1 bull and 5 cows.
+Turn 229:
+>> uzhiwy
+Grade: 1 bull and 5 cows.
+Turn 230:
+>> zuhiwy
+Grade: 1 bull and 5 cows.
+Turn 231:
+>> huziwy
+Grade: 6 cow.
+Turn 232:
+>> uhziwy
+Grade: 6 cow.
+Turn 233:
+>> zhuiwy
+Grade: 6 cow.
+Turn 234:
+>> hzuiwy
+Grade: 6 cow.
+Turn 235:
+>> izuhwy
+Grade: 6 cow.
+Turn 236:
+>> ziuhwy
+Grade: 6 cow.
+Turn 237:
+>> uizhwy
+Grade: 6 cow.
+Turn 238:
+>> iuzhwy
+Grade: 6 cow.
+Turn 239:
+>> zuihwy
+Grade: 6 cow.
+Turn 240:
+>> uzihwy
+Grade: 6 cow.
+Turn 241:
+>> uhizwy
+Grade: 6 cow.
+Turn 242:
+>> huizwy
+Grade: 6 cow.
+Turn 243:
+>> iuhzwy
+Grade: 1 bull and 5 cows.
+Turn 244:
+>> uihzwy
+Grade: 1 bull and 5 cows.
+Turn 245:
+>> hiuzwy
+Grade: 6 cow.
+Turn 246:
+>> ihuzwy
+Grade: 6 cow.
+Turn 247:
+>> ihzuwy
+Grade: 1 bull and 5 cows.
+Turn 248:
+>> hizuwy
+Grade: 1 bull and 5 cows.
+Turn 249:
+>> zihuwy
+Grade: 2 bulls and 4 cows.
+Turn 250:
+>> izhuwy
+Grade: 2 bulls and 4 cows.
+Turn 251:
+>> hziuwy
+Grade: 1 bull and 5 cows.
+Turn 252:
+>> zhiuwy
+Grade: 1 bull and 5 cows.
+Turn 253:
+>> whiuzy
+Grade: 2 bulls and 4 cows.
+Turn 254:
+>> hwiuzy
+Grade: 3 bulls and 3 cows.
+Turn 255:
+>> iwhuzy
+Grade: 4 bulls and 2 cows.
+Turn 256:
+>> wihuzy
+Grade: 3 bulls and 3 cows.
+Turn 257:
+>> hiwuzy
+Grade: 2 bulls and 4 cows.
+Turn 258:
+>> ihwuzy
+Grade: 2 bulls and 4 cows.
+Turn 259:
+>> uhwizy
+Grade: 1 bull and 5 cows.
+Turn 260:
+>> huwizy
+Grade: 1 bull and 5 cows.
+Turn 261:
+>> wuhizy
+Grade: 2 bulls and 4 cows.
+Turn 262:
+>> uwhizy
+Grade: 3 bulls and 3 cows.
+Turn 263:
+>> hwuizy
+Grade: 2 bulls and 4 cows.
+Turn 264:
+>> whuizy
+Grade: 1 bull and 5 cows.
+Turn 265:
+>> wiuhzy
+Grade: 1 bull and 5 cows.
+Turn 266:
+>> iwuhzy
+Grade: 2 bulls and 4 cows.
+Turn 267:
+>> uwihzy
+Grade: 2 bulls and 4 cows.
+Turn 268:
+>> wuihzy
+Grade: 1 bull and 5 cows.
+Turn 269:
+>> iuwhzy
+Grade: 1 bull and 5 cows.
+Turn 270:
+>> uiwhzy
+Grade: 1 bull and 5 cows.
+Turn 271:
+>> uihwzy
+Grade: 2 bulls and 4 cows.
+Turn 272:
+>> iuhwzy
+Grade: 2 bulls and 4 cows.
+Turn 273:
+>> huiwzy
+Grade: 1 bull and 5 cows.
+Turn 274:
+>> uhiwzy
+Grade: 1 bull and 5 cows.
+Turn 275:
+>> ihuwzy
+Grade: 1 bull and 5 cows.
+Turn 276:
+>> hiuwzy
+Grade: 1 bull and 5 cows.
+Turn 277:
+>> hyuwzi
+Grade: 2 bulls and 4 cows.
+Turn 278:
+>> yhuwzi
+Grade: 3 bulls and 3 cows.
+Turn 279:
+>> uhywzi
+Grade: 2 bulls and 4 cows.
+Turn 280:
+>> huywzi
+Grade: 2 bulls and 4 cows.
+Turn 281:
+>> yuhwzi
+Grade: 4 bulls and 2 cows.
+Turn 282:
+>> uyhwzi
+Grade: 3 bulls and 3 cows.
+Turn 283:
+>> wyhuzi
+Grade: 4 bulls and 2 cows.
+Turn 284:
+>> ywhuzi
+Grade: 6 bulls.
+Congratulations! You guessed the secret code.
+?[1;31m
+Start test 7?[0m
+Please, enter the secret code's length:
+>> 0
+?[1;31m
+Start test 8?[0m
+Please, enter the secret code's length:
+>> 10
+Input the number of possible symbols in the code:
+>> 9
+?[1;31m
+Start test 9?[0m
+Please, enter the secret code's length:
+>> 9
+Input the number of possible symbols in the code:
+>> 37
+?[1;31m
+Start test 10?[0m
+Please, enter the secret code's length:
+>> abcdefg 1 -6
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

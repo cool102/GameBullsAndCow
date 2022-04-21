@@ -1,0 +1,25 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    import java.util.*;
+
+    public class Main {
+        public static void main(String[] args) {
+            Scanner scanner = new Scanner(System.in);
+            // write your code here
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4941#comment
+status: Failed
+feedback:
+  message: |
+    Compilation error
+    Main.java:10: error: class, interface, enum, or record expected
+    }
+    ^
+    1 error
+  time: Wed, 20 Apr 2022 10:39:32 UTC
+record: -1
